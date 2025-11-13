@@ -14,3 +14,4 @@ BILSTM,tanh,adam,50,Yes,76.33,0.7628,20.75
 BILSTM,relu,adam,50,No,76.10,0.7606,20.47
 RNN,relu,sgd,50,Yes,50.84,0.4895,4.09
 LSTM,sigmoid,rmsprop,100,Yes,79.89,0.7985,19.52
+
